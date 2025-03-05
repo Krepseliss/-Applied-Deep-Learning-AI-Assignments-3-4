@@ -12,7 +12,7 @@ from nltk.corpus import stopwords
 
 
 # 🚀 Set OpenAI API Key
-api_key = "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"
+api_key = "hidden"
 os.environ["OPENAI_API_KEY"] = api_key
 
 llm = LLM(
