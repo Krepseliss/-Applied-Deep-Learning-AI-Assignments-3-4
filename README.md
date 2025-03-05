@@ -13,7 +13,7 @@ This project analyzes customer reviews using **AI-powered sentiment analysis** a
 
 ## 📂 Dataset (redmi6)
 The dataset contains **customer reviews** for the **Xiaomi Redmi 6**.  
-- **Columns:** `Comments`, `Sentiment`, `Date`  
+- **Columns:** `Review Title`, `Customer name`, `Rating`, `Category`, `Comments`, `Sentiment`, `Date`, `Useful` 
 - **Sentiments:** Positive, Negative, Neutral  
 
 ---
