@@ -20,6 +20,6 @@ The dataset contains **customer reviews** for the **Xiaomi Redmi 6**.
 
 ## 🖥️ How to Install Dependencies
 ### 1️⃣ Download the "requirements.txt" file
-#### 2️⃣ Open Powershell in Windows and type
+#### 2️⃣ Open Powershell in Windows and run
 ```bash
 pip install -r "path/to/requirements.txt"
