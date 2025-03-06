@@ -7,7 +7,7 @@ This project analyzes customer reviews using **AI-powered sentiment analysis** a
 ✅ **Interactive Q&A System** – Ask questions about the dataset, and the AI Research Assistant provides **data-driven responses**.  
 ✅ **Data Visualizations** – Includes **pie charts, bar charts, and word clouds** for better insights.  
 ✅ **Stopword Filtering** – Removes irrelevant words from text to improve word frequency analysis.  
-✅ **CrewAI Multi-Agent System** – Utilizes **CrewAI** to assign tasks to different AI agents for **data processing and research**.  
+✅ **CrewAI Agent System** – Utilizes **CrewAI** to assign tasks to different AI agents for **data processing and research**.  
 
 ---
 
