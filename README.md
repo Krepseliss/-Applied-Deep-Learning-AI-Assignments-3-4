@@ -1,6 +1,6 @@
 # 📊 Sentiment Analysis of Customer Reviews with AI
 
-This project analyzes customer reviews using **AI-powered sentiment analysis** and presents insights through **interactive visualizations** in Streamlit.
+This project analyzes customer reviews using **AI-powered sentiment analysis** and presents insights through a **Q&A AI Chatbot** and **interactive visualizations** in Streamlit.
 
 ## 🔍 Features
 ✅ **AI-Driven Sentiment Analysis** – Uses OpenAI's o3-mini model to classify customer reviews as **Positive, Negative, or Neutral**.  
