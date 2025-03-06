@@ -3,7 +3,7 @@
 This project analyzes customer reviews using **AI-powered sentiment analysis** and presents insights through **interactive visualizations** in Streamlit.
 
 ## 🔍 Features
-✅ **AI-Driven Sentiment Analysis** – Uses OpenAI o3-mini to classify customer reviews as **Positive, Negative, or Neutral**.  
+✅ **AI-Driven Sentiment Analysis** – Uses OpenAI's o3-mini model to classify customer reviews as **Positive, Negative, or Neutral**.  
 ✅ **Interactive Q&A System** – Ask questions about the dataset, and the AI Research Assistant provides **data-driven responses**.  
 ✅ **Data Visualizations** – A **pie chart, bar chart, and word cloud** are included for better insights.  
 ✅ **Stopword Filtering** – Removes irrelevant words from text to improve word frequency analysis.  
